@@ -528,7 +528,7 @@ def problem1d(t, sequence):
             greater than 10.
       -- See the test cases for more examples, or ASK YOUR INSTRUCTOR
            FOR HELP if this problem's specification is not clear to you.
-     """
+     """ 
     ###########################################################################
     # DONE: 4. Implement and test this function.
     #          Tests have been written for you (above).
